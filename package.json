@@ -1,6 +1,6 @@
 {
   "name": "@rljson/cars-custom-master",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Master of the custom side of the cars example app, where released catalogs are edited further for customers",
   "homepage": "https://github.com/rljson/cars-custom-master",
   "bugs": "https://github.com/rljson/cars-custom-master/issues",

@@ -2,4 +2,4 @@
 // Kept in sync by test/cars_custom_master_version.spec.ts.
 
 /** The version of the `@rljson/cars-custom-master` package. */
-export const carsCustomMasterVersion = '0.0.1';
+export const carsCustomMasterVersion = '0.0.2';
