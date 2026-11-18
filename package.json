@@ -1,9 +1,9 @@
 {
-  "name": "@rljson/cars-custom-master",
+  "name": "@cars-world/cars-custom-master",
   "version": "0.0.2",
   "description": "Master of the custom side of the cars example app, where released catalogs are edited further for customers",
-  "homepage": "https://github.com/rljson/cars-custom-master",
-  "bugs": "https://github.com/rljson/cars-custom-master/issues",
+  "homepage": "https://github.com/cars-world/cars-custom-master",
+  "bugs": "https://github.com/cars-world/cars-custom-master/issues",
   "private": true,
   "license": "MIT",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rljson/cars-custom-master.git"
+    "url": "git+https://github.com/cars-world/cars-custom-master.git"
   },
   "main": "dist/cars-custom-master.js",
   "types": "dist/index.d.ts",
