@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- A push to `main` builds the image and deploys it to `dev`: the
+  workflow `deploy.yaml` calls the workflow `build` of `cars-deployment`
+- `pnpm run build` passes: `tsconfig.json` names the Node.js types,
+  which TypeScript 6 no longer loads by itself
 - Move the repository to the GitHub organization `cars-world` and
   rename the package to `@cars-world/cars-custom-master`
 - Build the image into the registry `crcars`, tagged with the version
